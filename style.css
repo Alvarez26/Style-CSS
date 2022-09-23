@@ -1,10 +1,10 @@
-.box{
-    width: 200px;
+div{
     height: 200px;
-    border: 15px ;
-    background-color: green;
-    border: 15px solid red;
-    padding: 15px ;
-    margin: 15px ;
-    box-sizing: border-box;
+    border: 3px  solid black;
+
+}
+.red{
+    background-color: red;
+    position: absolute;
+    width: 100%;
 }
